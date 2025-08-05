@@ -1,3 +1,12 @@
 {
-  "rewrites": [{ "source": "/(.*)", "destination": "/Restore My Gut — The Complete Wellness Blueprint (Part 2).pdf" }]
+  "rewrites": [
+    {
+      "source": "/the-3-phase-journey",
+      "destination": "/Restore My Gut — The 3 Phase Journey (Part 1).pdf"
+    },
+    {
+      "source": "/the-complete-wellness-blueprint",
+      "destination": "/Restore My Gut — The Complete Wellness Blueprint (Part 2).pdf"
+    }
+  ]
 }
