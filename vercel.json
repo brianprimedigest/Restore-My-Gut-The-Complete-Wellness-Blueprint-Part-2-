@@ -7,6 +7,10 @@
     {
       "source": "/part-2",
       "destination": "/part-2.pdf"
+    },
+    {
+      "source": "/profile-image",
+      "destination": "1f3cd0e4-c08d-4dc6-aa83-eb6f927aa539.png"
     }
   ]
 }
